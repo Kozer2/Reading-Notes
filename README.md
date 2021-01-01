@@ -1,7 +1,7 @@
 # Reading-Notes
 
 
-##[Previous Learning Journal](kozer2.github.io/learning-journal/)
+[Previous Learning Journal](https://kozer2.github.io/Learning-Journal/)
 
 
 
