@@ -19,6 +19,10 @@ In HTML you can assign IDs and classes to different attributes.
 - Doing so allows you to use CSS to change how they look
   - You can change anything from front type, bold it, change its color, and more. 
   
+** Which markup example is wrong? **
   
->! This is a spoiler
-  
+    [ ] <div> </div>
+    [ ] <p> </p
+    [ ] <body> </body>
+    
+[Click here for answer](answer.md)
