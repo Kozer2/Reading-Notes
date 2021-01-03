@@ -1,1 +1,1 @@
-* The Answer is **C** *
+* The Answer is **C** 
