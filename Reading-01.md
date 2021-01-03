@@ -20,5 +20,5 @@ In HTML you can assign IDs and classes to different attributes.
   - You can change anything from front type, bold it, change its color, and more. 
   
   
-  >! test
+>! This is a spoiler
   
