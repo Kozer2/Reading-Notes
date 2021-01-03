@@ -39,4 +39,7 @@ HTML 5 has introduced new elements to get away from some of the common ways to c
 When creating your website you need to know who it is for. 
 - Create imaginary users and give them stats for who they are how often they visit and what their job is. 
   - Why are they visiting your website? What does it offer them?
-- Map out your website! Important things should be # Big
+- Map out your website! Important things should stand out more than less important things. Find ways to mixup how different important elements stand out
+  - Make some bigger
+  - Make others a different color
+  - Change the front style of some
