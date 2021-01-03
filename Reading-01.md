@@ -1,6 +1,6 @@
 
 ###### Reading 1 
-
+### HTML Book
 ***Chapter 1***  
 **HTML uses tags for different parts of a webpage**
 - These can range from heading tags like <h1> </h1> to tags that belong in the body or paragraphs like <p> </p> 
@@ -43,3 +43,12 @@ When creating your website you need to know who it is for.
   - Make some bigger
   - Make others a different color
   - Change the front style of some
+
+
+### JS Book
+***Chapter 1***  
+A script is a set of instructions that tell your computer what to do. 
+To create a script you need:
+1. What is the goal of the script?
+2. Plan out the script, what are the steps it needs
+3. Code the script step by step
