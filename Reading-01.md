@@ -21,8 +21,8 @@ In HTML you can assign IDs and classes to different attributes.
   
 ** Which markup example is wrong? **
   
-    [ ] <div> </div>
-    [ ] <p> </p
-    [ ] <body> </body>
+    [A] <div> </div>
+    [B] <p> </p
+    [C] <body> </body>
     
 [Click here for answer](answer.md)
