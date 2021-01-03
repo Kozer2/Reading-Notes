@@ -1,7 +1,7 @@
 
 ###### Reading 1 
 
-***Chapter 1***
+***Chapter 1***  
 **HTML uses tags for different parts of a webpage**
 - These can range from heading tags like <h1> </h1> to tags that belong in the body or paragraphs like <p> </p> 
 - Tags are used to format webpages to make them easier to read and follow along with. 
@@ -9,7 +9,7 @@
 - You can create a simple webpage using a text editor like notepad++
 
 
-***Chapter 8***
+***Chapter 8***  
 HTML has gone through changes during its lifetime.
 - HTML 4 in 1997
 - XHTML  in 2000 which adde closing tags and required values for attributes among others. 
@@ -28,14 +28,14 @@ In HTML you can assign IDs and classes to different attributes.
 [Click here for answer](answer.md)
 
 
-***Chapter 17***
+***Chapter 17***  
 #### HTML 5
 HTML 5 has introduced new elements to get away from some of the common ways to create pages. 
 - Now you can just create a <div> page and instead of creating additional divs for headers and footers, you just use the new <header> or <footer> elements. 
 - There are other elements as well. From <article> to heading groups (<hgroup> 
  
  
-***Chapter 18***
+***Chapter 18***  
 
 When creating your website you need to know who it is for. 
 - Create imaginary users and give them stats for who they are how often they visit and what their job is. 
