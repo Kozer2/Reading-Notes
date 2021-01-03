@@ -1,10 +1,10 @@
-# Reading-Notes
+# Code 201 Reading-Notes
 
 
 [Previous Learning Journal](https://kozer2.github.io/Learning-Journal/)
 
 
-
+> Always do your best. Something will come from it
 
 
 
