@@ -30,3 +30,13 @@ In HTML you can assign IDs and classes to different attributes.
 
 ***Chapter 17***
 #### HTML 5
+HTML 5 has introduced new elements to get away from some of the common ways to create pages. 
+- Now you can just create a <div> page and instead of creating additional divs for headers and footers, you just use the new <header> or <footer> elements. 
+- There are other elements as well. From <article> to heading groups (<hgroup> 
+ 
+ 
+***Chapter 18***
+When creating your website you need to know who it is for. 
+- Create imaginary users and give them stats for who they are how often they visit and what their job is. 
+  - Why are they visiting your website? What does it offer them?
+- Map out your website! Important things should be # Big
