@@ -13,6 +13,7 @@ This file will have several questions with hidden answers. Select your answer fo
 2. **True or False**
       CSS can be used both within the HTML page itself as well as in its own file. 
        You just need to include a link to it. 
+       
 ***Chapter 10***
 
 3. **Multiple Choice**
