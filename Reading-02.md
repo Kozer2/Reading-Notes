@@ -45,7 +45,7 @@ This file will have several questions with hidden answers. Select your answer fo
 3. We learned about Logical Operators, determine which example returns true.  
     - (2 < 5) && (5 > 8)
     - !(5 < 8)
-    - (4 < 7)  /| /| (4 < 1)
+    - (4 < 7)  \| \| (4 < 1)
     
     
     
