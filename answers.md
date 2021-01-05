@@ -10,4 +10,4 @@
 **JavaScript & JQuery Book**
 1. ***/* Fixed syntax error on line 33 where the variable 'customerName' was spelled wrong. */***
 2. ***+++***
-3. ***(4 < 7)  | | (4 < 1)***
+3. ***(4 < 7)  \| \| (4 < 1)***
