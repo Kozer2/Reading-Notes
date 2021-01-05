@@ -4,11 +4,11 @@ This file will have several questions with hidden answers. Select your answer fo
 ***Chapter 2***
 
 1. **True or False**
-      All of these are can be used in HTML to format webpages in some manner. 
-      - <p></p>
-      - <em></em>
-      - <greenText></greenText>
-      - <s></s>
+      All of these are can be used in HTML to format webpages in some manner.
+      - \<p>\</p>
+      - \<em>\</em>
+      - \<greenText>\</greenText>
+      - \<s>\</s>
       
 2. **True or False**
       CSS can be used both within the HTML page itself as well as in its own file. 
@@ -43,6 +43,10 @@ This file will have several questions with hidden answers. Select your answer fo
 ***Chapter 4***  
 
 3. We learned about Logical Operators, determine which example returns true.  
-    - 2 < 5 && 5> 8
+    - (2 < 5) && (5 > 8)
     - !(5 < 8)
-    - 4 < 7  | | 4 < 1
+    - (4 < 7)  | | (4 < 1)
+    
+    
+    
+    [Click here for answers](answers.md)
