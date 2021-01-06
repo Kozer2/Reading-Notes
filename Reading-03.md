@@ -22,7 +22,7 @@ You can create boxes around items on your webpage. You canm give it things like 
   
   
   
- **JS&JQUERY Book**
+ **JS&JQUERY Book**  
 ***Chapter 2***  
 - Arrays are numbered starting at 0. 
 - An array of 5 items would look like: 0, 1, 2, 3, 4. 
