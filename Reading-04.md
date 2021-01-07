@@ -18,10 +18,10 @@
 ***Chapter 3***  
 - An important part of webpages is using functions to perform tasks. Functions are groups of scripts that are run each time the function is called.
   - It is easy to create a function, you do so by declaring the function and giving it a name. For example: function countTo100(){}
-    - In that example I declare the function by typing out 'function'. I then give it a name, in this case 'countTo100' and end it by giving it () and {}. If the function takes an arguement, it goes in the paranthesis
+    - In that example I declare the function by typing out 'function'. I then give it a name, in this case 'countTo100' and end it by giving it () and {}. If the function takes an argument, it goes in the parenthesis
  - Functions can do many things, it is up to you to determine what you want your function to do. 
 
 ***Code Pair Article***
 
-*Code Pairing is the practice of having 2 people work on some code. 1 is the actualy programmer and the other looks over their code and using their words, helps the programmer solve problems. They don't actually code at all, but their guidence helps. 
+*Code Pairing is the practice of having 2 people work on some code. 1 is the actually programmer and the other looks over their code and using their words, helps the programmer solve problems. They don't actually code at all, but their guidance helps. 
 Using code pairing allows students to gain extra experience in coding. Both from a hands on perspective, to reading and working through code.*
