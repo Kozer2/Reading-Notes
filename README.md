@@ -18,5 +18,5 @@
 |[Reading 2](Reading-02.md)   |[Reading 7](Reading-07.md)  |:-----:   |:-----: |
 |[Reading 3](Reading-03.md)   |[Reading 8](Reading-08.md)  |:-----:   |:-----: |
 |[Reading 4](Reading-04.md)   |[Reading 9](Reading-09.md)  |:-----:   |:-----: |
-|[Reading 5](Reading-05.md)   |:-----:                     |:-----:   |:-----: |  
+|[Reading 5](Reading-05.md)   |[Reading 10](Reading-10.md) |:-----:   |:-----: |  
  
