@@ -1,6 +1,7 @@
 # Charts
 
 - You can add charts to your webpage by downloading it from Chart.js and putting it your working directory
+  https://www.chartjs.org/docs/latest/
 - there are multiple types of charts you can us
   - Line
   - pie
