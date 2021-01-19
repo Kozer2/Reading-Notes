@@ -13,5 +13,5 @@
    - to change color you can use 
      -     fillstyle = color” Fills it with color
      -     strokeStyle = color: Sets the borders color
-    -     globalAlpha = transparencyValue: can be used to change the transparency of the object
+      -     globalAlpha = transparencyValue: can be used to change the transparency of the object
  - you can draw text as well and give it font for your box. 
