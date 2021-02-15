@@ -10,7 +10,7 @@ Node.js is compatible with JavaScript and many other languages.
 
 Did you know that Node comes with Npm? Well you do now! Its bundled with Npm which is one of the largest software registries in the world. 
 - To install a package from Npm you use a command such as:  
-      npm install -g jshint
+      ```npm install -g jshint
 
 Now to the big question. What will you use Node.js for?
 - Node allows us to run JS on a server. Node was the first tool which gained traction doing this. Though not the first to do it. 
