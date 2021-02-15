@@ -31,10 +31,10 @@
  #### Table of Contents
 
 
-|Week 1                       |Week 2    |Week 3    | Week 4 | 
-|:-----:                      |:-----:   |:-----:   |:-----: |
-|[Reading 1](Reading-301.md)  |:-----:   |:-----:   |:-----: |
-|[Reading 2](Reading-302.md)  |:-----:   |:-----:   |:-----: |
-|[Reading 3](Reading-303.md)  |:-----:   |:-----:   |:-----: |
-|[Reading 4](Reading-304.md)  |:-----:   |:-----:   |:-----: |
-|[Reading 5](Reading-305.md)  |:-----:   |:-----:   |:-----: |  
+|Week 1                       |Week 2                        |Week 3    | Week 4 | 
+|:-----:                      |:-----:                       |:-----:   |:-----: |
+|[Reading 1](Reading-301.md)  |[Reading 6](Reading-306.md)   |:-----:   |:-----: |
+|[Reading 2](Reading-302.md)  |:-----:                       |:-----:   |:-----: |
+|[Reading 3](Reading-303.md)  |:-----:                       |:-----:   |:-----: |
+|[Reading 4](Reading-304.md)  |:-----:                       |:-----:   |:-----: |
+|[Reading 5](Reading-305.md)  |:-----:                       |:-----:   |:-----: |  
