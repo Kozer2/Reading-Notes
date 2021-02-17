@@ -37,4 +37,3 @@ IN (…)	                 String exists in a list	col_name IN ("A", "B", "C")
 NOT IN (…)	             String does not exist in a list	                                                                                      col_name NOT IN ("D", "E", "F")
 ```
 
-gdfhdfg
