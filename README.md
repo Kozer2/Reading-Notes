@@ -31,10 +31,10 @@
  #### Table of Contents
 
 
-|Week 1                       |Week 2                        |Week 3    | Week 4 | 
-|:-----:                      |:-----:                       |:-----:   |:-----: |
-|[Reading 1](Reading-301.md)  |[Reading 6](Reading-306.md)   |:-----:   |:-----: |
-|[Reading 2](Reading-302.md)  |[Reading 7](Reading-307.md)   |:-----:   |:-----: |
-|[Reading 3](Reading-303.md)  |[Reading 8](Reading-308.md)   |:-----:   |:-----: |
-|[Reading 4](Reading-304.md)  |[Reading 9](Reading-309.md)   |:-----:   |:-----: |
-|[Reading 5](Reading-305.md)  |[Reading 10](Reading-310.md)  |:-----:   |:-----: |  
+|Week 1                       |Week 2                        |Week 3                         | Week 4 | 
+|:-----:                      |:-----:                       |:-----:                        |:-----: |
+|[Reading 1](Reading-301.md)  |[Reading 6](Reading-306.md)   |[Reading 11](Reading-311.md)   |:-----: |
+|[Reading 2](Reading-302.md)  |[Reading 7](Reading-307.md)   |[Reading 12](Reading-312.md)   |:-----: |
+|[Reading 3](Reading-303.md)  |[Reading 8](Reading-308.md)   |[Reading 13](Reading-313.md)   |:-----: |
+|[Reading 4](Reading-304.md)  |[Reading 9](Reading-309.md)   |[Reading 14](Reading-314.md)   |:-----: |
+|[Reading 5](Reading-305.md)  |[Reading 10](Reading-310.md)  |[Reading 15](Reading-315.md)   |:-----: |  
