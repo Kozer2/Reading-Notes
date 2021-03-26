@@ -2,22 +2,22 @@
 
 # Linked Lists  
 
-Linked Lists are nodes that are in a sequence. That is they are connected and each node references the next one in the link. 
+Linked Lists are nodes that are in a sequence. That is they are connected and each node references the next one in the link.
 
-- Linked List
-  - A node that points to the next one in the chain
-- Singly
-  - Refers to the number of references that a node has. If its singly linked it only has 1 reference.
- - Doubly
-  - Referes to a node that has two references
- - Node
-  - Individual items that are in the linked list
- - Next
-  - This property of the node contains the data for the next link
- - Head
-  - Referes to the type reference for the first node 
- - Current
-  - Is the reference type for the current node in the list
+Linked List
+A node that points to the next one in the chain
+Singly
+Refers to the number of references that a node has. If its singly linked it only has 1 reference.
+Doubly
+Refers to a node that has two references
+Node
+Individual items that are in the linked list
+Next
+This property of the node contains the data for the next link
+Head
+Refers to the type reference for the first node
+Current
+Is the reference type for the current node in the list
 
 
 
