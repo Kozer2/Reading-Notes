@@ -4,7 +4,8 @@
 What is an Interface? Well and Interface contains the definitions for groups of related functionalities that any non-abstract class needs to implement. 
 
 They are defined by:
-``` interface Example<T>
+``` 
+interface Example<T>
 {
   bool IExamples( T obj);
 }
