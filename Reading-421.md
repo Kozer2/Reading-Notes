@@ -17,7 +17,7 @@ Model-View-Controllers are a design pattern which helps developers develop web a
 
 The Model layer is the Object in your App. 
 The View layer has the html controls. These are done with the Razor Engine.  
-The COntroller layer handles the user requests to the server.
+The Controller layer handles the user requests to the server.
 
 
 # Tag helpers  
