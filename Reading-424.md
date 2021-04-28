@@ -13,7 +13,7 @@ Creating a view is simple. Here is an example:
 <h3>@ViewData["Message"]</h3>
 ```  
 
-For a controller to return a view you just use ```View()``` in the return statement. 
+For a controller to return a view you just use ```View()``` in the return statement.   
 *It doesn't matter if you implicitly return the ViewResult with return View(); or explicitly pass the view name to the View method with return View("<ViewName>");. 
  In both cases, view discovery searches for a matching view file in this order:*
   
