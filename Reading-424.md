@@ -21,4 +21,4 @@ For a controller to return a view you just use ```View()``` in the return statem
 
 
 # 4 ways to make a form in MVC
-[Link to a useform form tutorial](https://www.completecsharptutorial.com/asp-net-mvc5/4-ways-to-create-form-in-asp-net-mvc.php)
+[Link to a useful form tutorial](https://www.completecsharptutorial.com/asp-net-mvc5/4-ways-to-create-form-in-asp-net-mvc.php)
