@@ -1,7 +1,7 @@
 
 # Azure blobs
 
-In MVC *views* handle the apps way of presentting data. A view is an HTML template that can be edited like HTML. Their file tags are .cshtml
+In MVC *views* handle the apps way of presenting data. A view is an HTML template that can be edited like HTML. Their file tags are .cshtml
 
 Your projects will start with a HomeController that works with a view in the home folder to create your basic index and privacy.  
 Creating a view is simple. Here is an example:
