@@ -54,12 +54,12 @@
 |[Read 4](Reading-404.md)  |[Read 9](Reading-409.md)  |[Read 15](Reading-415.md)  |[Read 20](Reading-420.md) |[Read 24](Reading-424.md)  |
 |[Read 5](Reading-405.md)  |[Read 10](Reading-410.md) |[Read 16](Reading-416.md)  |:-----:                   |[Read 25](Reading-425.md)  |
 
-|Week 7                     |Week 8                    | Week 9 | 
-|:-----:                    |:-----:                   |:-----: |
-|[Read 26](Reading-426.md)  |[Read 31](Reading-431.md) |:-----: |
-|[Read 27](Reading-427.md)  |[Read 32](Reading-432.md) |:-----: |
-|[Read 28](Reading-428.md)  |[Read 33](Reading-433.md) |:-----: |
-|[Read 29](Reading-429.md)  |[Read 34](Reading-434.md) |:-----: |
-|[Read 30](Reading-430.md)  |:-----:                   |:-----: |
+|Week 7                     |Week 8                    | Week 9                  | 
+|:-----:                    |:-----:                   |:-----:                  |
+|[Read 26](Reading-426.md)  |[Read 31](Reading-431.md) |[Read 36](Reading-436.md)|
+|[Read 27](Reading-427.md)  |[Read 32](Reading-432.md) |:-----:                  |
+|[Read 28](Reading-428.md)  |[Read 33](Reading-433.md) |:-----:                  |
+|[Read 29](Reading-429.md)  |[Read 34](Reading-434.md) |:-----:                  |
+|[Read 30](Reading-430.md)  |:-----:                   |:-----:                  |
 
 
