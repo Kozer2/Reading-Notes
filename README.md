@@ -57,7 +57,7 @@
 |Week 7                     |Week 8                    | Week 9                  | 
 |:-----:                    |:-----:                   |:-----:                  |
 |[Read 26](Reading-426.md)  |[Read 31](Reading-431.md) |[Read 36](Reading-436.md)|
-|[Read 27](Reading-427.md)  |[Read 32](Reading-432.md) |:-----:                  |
+|[Read 27](Reading-427.md)  |[Read 32](Reading-432.md) |[Read 37](Reading-437.md)|
 |[Read 28](Reading-428.md)  |[Read 33](Reading-433.md) |:-----:                  |
 |[Read 29](Reading-429.md)  |[Read 34](Reading-434.md) |:-----:                  |
 |[Read 30](Reading-430.md)  |:-----:                   |:-----:                  |
